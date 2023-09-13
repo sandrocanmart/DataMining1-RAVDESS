@@ -15,7 +15,7 @@
 #### Clustering
 
 1. Analysis by centroid-based methods.
-2. AAnalysis by density-based clustering.
+2. Analysis by density-based clustering.
 3. Analysis by hierarchical clustering. 
 4. Final Discussion
 
